@@ -20,6 +20,7 @@ body {
     background-color: rgba(27, 53, 202, 0.527);
     width: 720px;
     max-width: 90%;
+    border-radius: 5px;
 }
 .quoteDisplay{
     margin-left: calc(1rem - 1px);
@@ -34,6 +35,8 @@ body {
     resize: none;
     padding:1rem;
     border:1px solid black;
+    border-radius: 1rem;
+    margin:auto;
 }
 
 .quoteInput:focus{
