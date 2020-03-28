@@ -49,3 +49,12 @@ body {
     font-size: 4rem;
     font-weight: bold;
 }
+
+.correct {
+    color: green;
+  }
+  
+  .incorrect {
+    color: red;
+    text-decoration: underline;
+  }
