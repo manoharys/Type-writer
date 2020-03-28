@@ -1,4 +1,4 @@
-const RANDOM_QUOTE_API_URL = 'http://api.quotable.io/random'
+const RANDOM_QUOTE_API_URL = ' https://cors-anywhere.herokuapp.com/http://api.quotable.io/random'
 const quoteDisplayElement = document.getElementById('quote-display')
 const quoteInputElement = document.getElementById('quote-input')
 const timerElement = document.getElementById('timer')
