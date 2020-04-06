@@ -5,3 +5,4 @@
    Take the test here: <a href="https://manoharys.github.io/Type-writer/">Click here</a>
 
  
+   <img src="https://github.com/manoharys/Type-writer/blob/master/screenshot.JPG">
